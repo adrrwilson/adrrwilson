@@ -1,2 +1,2 @@
-Hi, my name's Adrian. I’m interested in Software Development, and am currently learning Ruby.
+Hi, my name is Adrian! I'm a software engineer with 2 years experience working with Ruby.
 In my free time I enjoy social dancing, kitesurfing and reading.
